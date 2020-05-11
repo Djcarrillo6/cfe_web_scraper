@@ -1,0 +1,402 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wor",
+				"word_counts"
+			],
+			[
+				"head",
+				"header_colums"
+			],
+			[
+				"get",
+				"get_stop_words"
+			],
+			[
+				"ar",
+				"arrIndex"
+			],
+			[
+				"co",
+				"count2"
+			],
+			[
+				"digi",
+				"digitBucket"
+			],
+			[
+				"max",
+				"maxDigitCount"
+			],
+			[
+				"pivot",
+				"pivotIndex"
+			],
+			[
+				"quick",
+				"quickSort"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"res",
+				"resetButton"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mode",
+				"modeButtons"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"message",
+				"messageDisplay"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"text-ali",
+				"text-align\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"num",
+				"numSquares"
+			],
+			[
+				"pci",
+				"pickedColor"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"pcik",
+				"pickColor"
+			],
+			[
+				"ea",
+				"easyBtn"
+			],
+			[
+				"backgroundC",
+				"background-color\tproperty"
+			],
+			[
+				"pick",
+				"pickedColor"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pic",
+				"pickColor"
+			],
+			[
+				"pc",
+				"pickedColor"
+			],
+			[
+				"ge",
+				"generateRandomColors"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"re",
+				"resetButton"
+			],
+			[
+				"text-aling",
+				"text-align-last\tproperty"
+			],
+			[
+				"rand",
+				"randomColor"
+			],
+			[
+				"ch",
+				"changeColors"
+			],
+			[
+				"clic",
+				"clickedColor"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"backgo",
+				"background-color\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"sol",
+				"solutions"
+			],
+			[
+				"print",
+				"printReverse"
+			],
+			[
+				"is",
+				"isSquare"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/scrape1.py",
+			"settings":
+			{
+				"buffer_size": 2658,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/davidcarrillojr/Desktop/cfe/courses/web_scraping",
+		"/Users/davidcarrillojr/Desktop/cfe/courses/web_scraping/src",
+		"/Users/davidcarrillojr/Desktop/cfe/courses/web_scraping/src/csv"
+	],
+	"file_history":
+	[
+		"/Users/davidcarrillojr/Desktop/AlgoCasts/exercises/palindrome/index.js",
+		"/Users/davidcarrillojr/Desktop/AlgoCasts/exercises/palindrome/test.js",
+		"/Users/davidcarrillojr/Desktop/got.html",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/todo_list_proj/assets/js/lib/jquery-3.5.0.min.js",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/colorgame.js",
+		"/Users/davidcarrillojr/Desktop/js_algos_udemy/sorting_algorithms.js",
+		"/Users/davidcarrillojr/Downloads/javascript_algos/sorting_algorithms.js",
+		"/Users/davidcarrillojr/Downloads/javascript_algos/quick_sort.js",
+		"/Users/davidcarrillojr/Desktop/js_algos_udemy/data_structures.js",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/index.html",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/colorgame.css",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/rgb_base.html",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/04102020.js",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/04102020.css",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/functions.html",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/solutions.js",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/objects.js",
+		"/Users/davidcarrillojr/Desktop/web_dev_udemy/jsfunctions.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/scrape1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1367,
+								1367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 666.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "scraping.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
